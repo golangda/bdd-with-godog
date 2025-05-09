@@ -112,6 +112,19 @@
   - Implement Go steps
   - Execute godog tests
 
+#### 13. Mini Project: End-to-End BDD with Go - Web Service (1.5 hours)
+- Project: Build a minimal "User Data Management Service" with Graphql APIs:
+  - GET all existing Users
+  - GET existing User by Id
+  - CREATE new User
+  - UPDATE existing User
+  - Delete one User by Id
+  - Delete all Users
+- Steps:
+  - Write `.feature` files
+  - Implement Go steps
+  - Execute godog tests
+
 #### 13. Mini Project: End-to-End BDD with Go - Standalone Application (1.5 hours)
 - Project: Build a minimal "Task Manager" with features:
   - Create Task
